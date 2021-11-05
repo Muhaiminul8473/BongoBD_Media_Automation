@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-05T11:17:56 BDT" name="E_Banking_version1" finished-at="2021-11-05T11:18:53 BDT" duration-ms="56473">
+    <groups>
+    </groups>
+    <test started-at="2021-11-05T11:17:56 BDT" name="Bongo App Test" finished-at="2021-11-05T11:18:53 BDT" duration-ms="56473">
+      <class name="com.banking.testcases.TestCase3">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.banking.testcases.TestCase3@6c64cb25]" started-at="2021-11-05T11:18:38 BDT" name="setup" finished-at="2021-11-05T11:18:47 BDT" duration-ms="9631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test()[pri:0, instance:com.banking.testcases.TestCase3@6c64cb25]" started-at="2021-11-05T11:18:47 BDT" name="Test" finished-at="2021-11-05T11:18:52 BDT" duration-ms="4570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.banking.testcases.TestCase3@6c64cb25]" started-at="2021-11-05T11:18:52 BDT" name="tearDown" finished-at="2021-11-05T11:18:53 BDT" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.testcases.TestCase3 -->
+      <class name="com.banking.testcases.TestCase2">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.banking.testcases.TestCase2@245b4bdc]" started-at="2021-11-05T11:18:11 BDT" name="setup" finished-at="2021-11-05T11:18:31 BDT" duration-ms="19976" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test()[pri:0, instance:com.banking.testcases.TestCase2@245b4bdc]" started-at="2021-11-05T11:18:31 BDT" name="Test" finished-at="2021-11-05T11:18:37 BDT" duration-ms="5402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.banking.testcases.TestCase2@245b4bdc]" started-at="2021-11-05T11:18:37 BDT" name="tearDown" finished-at="2021-11-05T11:18:38 BDT" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.testcases.TestCase2 -->
+      <class name="com.banking.testcases.TestCase1">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.banking.testcases.TestCase1@5b239d7d]" started-at="2021-11-05T11:17:57 BDT" name="setup" finished-at="2021-11-05T11:18:08 BDT" duration-ms="11691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test()[pri:0, instance:com.banking.testcases.TestCase1@5b239d7d]" started-at="2021-11-05T11:18:09 BDT" name="Test" finished-at="2021-11-05T11:18:10 BDT" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.banking.testcases.TestCase1@5b239d7d]" started-at="2021-11-05T11:18:10 BDT" name="tearDown" finished-at="2021-11-05T11:18:11 BDT" duration-ms="1190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.testcases.TestCase1 -->
+    </test> <!-- Bongo App Test -->
+  </suite> <!-- E_Banking_version1 -->
+</testng-results>
